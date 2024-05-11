@@ -1,0 +1,16 @@
+{
+  "name": "curso-nodejs-alura-axxving",
+  "version": "1.0.0",
+  "description": "Repositorio dedicado al almacenamiento de los ejercicios y prácticas realizadas durante la formación de \"API con Node.js y Express\" de Alura Latam.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
